@@ -19,8 +19,6 @@ Frontend Developer at <a href="https://dimensionless.ai" target="_blank" rel="no
 
 - 🌱 I’m currently learning **Go, Postgres**
 
-- 👨‍💻 All of my projects are available at [https://omang.netlify.app/](https://omang.netlify.app/)
-
 - 💬 Ask me about **react, css, javascript**
 
 - 📫 How to reach me **omangmorekar68@gmail.com**
